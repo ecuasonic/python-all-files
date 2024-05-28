@@ -1,0 +1,6 @@
+You have got 20 mails in your mailbox
+All components have failed
+An error occured!
+INFO - 2023-07-22 12:48:01,311: You have got 20 mails in your mailbox
+CRITICAL - 2023-07-22 12:48:01,312: All components have failed
+ERROR - 2023-07-22 12:48:01,312: An error occured!

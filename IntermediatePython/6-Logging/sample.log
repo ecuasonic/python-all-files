@@ -1,0 +1,23 @@
+2023-07-14 15:23:04,738:__main__:Add: 10 + 5 = 15
+2023-07-14 15:23:04,739:__main__:Sub: 10 - 5 = 5
+2023-07-14 15:23:04,739:__main__:Mul: 10 * 5 = 50
+2023-07-14 15:23:04,739:__main__:Div: 10 / 5 = 2.0
+2023-07-14 15:27:57,456:__main__:Tried to divide by zero
+2023-07-14 15:28:45,135:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\ecuas\Desktop\InterPython\log-sample.py", line 55, in divide
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero
+2023-07-14 15:44:35,460:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\ecuas\Desktop\InterPython\log-sample.py", line 69, in divide
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero
+2023-07-14 15:47:06,036:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\ecuas\Desktop\InterPython\log-sample.py", line 69, in divide
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero
